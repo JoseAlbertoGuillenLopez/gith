@@ -1,5 +1,7 @@
 '''
+
 commit_01_12_25 intento
+>>>>>>> 1c8baa86fe8f74c6ac77c14349c08cebb95c618f
 1ER DICIEMBRE
 1) Implementacion de MVC
 2) POO
